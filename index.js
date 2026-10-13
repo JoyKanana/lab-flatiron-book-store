@@ -1,20 +1,20 @@
 const bookStore = {
-    name: "Flatbooks",
+    name: "Flatbooks Technical Books",
     books: [
         {
-            title: "That's Not My Name",
-            author: "Megan Lally",
-            image: "https://i.pinimg.com/1200x/ea/89/1c/ea891c79908c5d5716fd4e8062667c02.jpg",
+            title: "Eloquent JavaScript: A Modern Introduction to Programming",
+            author: "Marijn Haverbeke",
+            image: "https://images-na.ssl-images-amazon.com/images/I/51IKycqTPUL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
         },
         {
-            title: "The Silent Patient",
-            author: "Alex Michaelides",
-            image: "https://i.pinimg.com/736x/d1/a3/a6/d1a3a60620bb77ee46e4d5140d09d550.jpg",
+            title: "JavaScript and JQuery: Interactive Front-End Web Development",
+            author: "Jon Duckett",
+            image: "https://images-na.ssl-images-amazon.com/images/I/41D9dIgqkAL._SX379_BO1,204,203,200_.jpg",
         },
         {
-            title: "Not Quite Dead Yet",
-            author: "Holly Jackson",
-            image: "https://i.pinimg.com/736x/40/d1/88/40d188adb453903f83af05c5e64a61fe.jpg",
+            title: "Cracking the Coding Interview",
+            author: "Gayle Laakmann McDowell",
+            image: "https://images-na.ssl-images-amazon.com/images/I/41r1ZrS0UQL._SX377_BO1,204,203,200_.jpg",
         },
     ],
 };
